@@ -23,3 +23,28 @@ pip install selenium
 # Download ChromeDriver (ensure version matches your Chrome browser)
 # Place chromedriver.exe in a known directory and update the path in the script
 python swaglabs_login.py
+
+---
+
+## 🤝 Collaboration & Connect
+
+I’m building a **community of learners and developers**.  
+If you want to collaborate, contribute, or share ideas, feel free to connect!
+
+- Discord: [Join Here](https://discord.gg/NZyAW9Phtt)  
+- Instagram: [@intelligent_shahid](https://www.instagram.com/intelligent_shahid/)
+
+---
+
+## 🚀 Motivational Note
+
+Even small projects can make a big impact in learning.  
+Automation doesn’t have to be complex; **consistency and curiosity** are what drive growth.  
+Start small, practice daily, and soon you’ll be creating advanced automation frameworks.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+```
