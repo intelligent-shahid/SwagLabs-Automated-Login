@@ -17,7 +17,7 @@ This project demonstrates **automated login testing** for the [Swag Labs Demo We
 - Gracefully closes the browser after execution  
 ---
 ## 🛠️ Quick Setup
--git clone https://github.com/your-username/SwagLabs-Selenium-Automation.git
+-git clone https://github.com/intelligent-shahid/SwagLabs-Selenium-Automation.git
 -cd SwagLabs-Selenium-Automation
 -pip install selenium
 -Download ChromeDriver (ensure version matches your Chrome browser)
